@@ -1,1 +1,1 @@
-# ggrust.com
+# ggrust.github.io
